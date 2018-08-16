@@ -20,11 +20,11 @@
 * [খান একাডেমিঃ ইন্টারেক্টিভ ওয়েবপেজ তৈরি](https://bn.khanacademy.org/computing/computer-programming/html-css-js)
 * [ মজিলা ফাউন্ডেশনঃ নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [নোড জেএস নিয়ে ধারণা](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%A8%E0%A7%8B%E0%A6%A1-%E0%A6%9C%E0%A7%87%E0%A6%8F%E0%A6%B8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-4cf3c5a7cfa6)
-* [ক্রস প্ল্যাটফর্ম ডেস্কটপ অ্যাপ বানিয়ে ফেলুন ৫ মিনিটে — ফান প্রোজেক্ট](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%A1%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%9F%E0%A6%AA-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A7%81%E0%A6%A8-%E0%A7%AB-%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F-8c9ae8985cbe)
 
 
 ### *ভিডিও*
 * [বিগিনিং জাভাস্ক্রিপ্ট - ইন্ট্রোডাকশন](https://www.youtube.com/watch?v=y0uT4izH8F0)
+* [নোডজেএস এবং JWT (জেসন ওয়েব টোকেন) দিয়ে একটা সিকিউরড এপিআই প্রজেক্ট তৈরী করা](https://www.youtube.com/watch?v=LOMPnw4uYto)
 
 # পিএইচপি
 ### *প্রবন্ধ*
