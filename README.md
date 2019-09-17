@@ -48,5 +48,7 @@
 ### *প্রবন্ধ*
 * [এক পলকে মার্কডাউন মার্কাপ ল্যাংগুয়েজ](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%8F%E0%A6%95-%E0%A6%AA%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%97%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9C-c854b135ed75)
 * [আমার ডকার শেখা/ বাংলায় ডকার](https://anam.co/docker-in-bangla/)
+* [Heroku তে সহজেই নোডজেএস এপ্লিকেশন হোস্ট করা](https://anam.co/getting-started-with-heroku-and-node/)
+* [ব্লকচেইন? সে আবার কি? আল্টিমেট অখাটি বাংলায় ব্লকচেইন ১০১](https://with.dibakar.me/2018/08/03/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF/)
 ### *ভিডিও*
 * [গিট পরিচিতি পর্ব ০১: গিট কি এবং কেন?](https://www.youtube.com/watch?v=M2a7OQX8te4)
